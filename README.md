@@ -7,8 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/vanshika-aggarwal-5143571a6/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/vanshikaaggarwal02">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="mailto:vanshikaaggarwal02@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -47,6 +50,7 @@ I'm a Software Engineer at JPMorgan Chase & Co., working on enterprise access ma
 ## 🌟 Featured Projects & Engineering Work
 
 ### 🤖 RBAC-Based RAG Chatbot
+
 An AI-powered assistant for developer and product teams to retrieve technical and functional answers from internal knowledge sources.
 
 **Tech:** Python, RAG, Sentence Transformers, Haystack, FastAPI
@@ -56,6 +60,7 @@ An AI-powered assistant for developer and product teams to retrieve technical an
 - Built to support a user base of 50,000+.
 
 ### 🧪 AI-Powered QA Automation
+
 A spec-driven testing framework that uses documentation and code context to generate automated end-to-end and API integration tests.
 
 **Tech:** AI-assisted development, Playwright, API Testing, E2E Testing
@@ -64,6 +69,7 @@ A spec-driven testing framework that uses documentation and code context to gene
 - Automates test authoring to reduce manual regression effort.
 
 ### ⚡ On-Demand Certifications
+
 An enterprise feature delivered end-to-end for an access management platform.
 
 **Tech:** Java, Spring Boot, REST APIs, React
@@ -72,6 +78,7 @@ An enterprise feature delivered end-to-end for an access management platform.
 - Included backend API development, frontend implementation, and integration testing.
 
 ### 🏆 Adaptive Feedback Agent
+
 An AI-powered adaptive feedback agent built for JPMC Innovation Week 2025.
 
 - Dynamically adjusted questions based on user responses.
@@ -109,17 +116,6 @@ An AI-powered adaptive feedback agent built for JPMC Innovation Week 2025.
 - 👩‍💻 Appointed **Engineer Committee Lead for 2025**.
 - ☁️ **AWS Certified Cloud Practitioner**.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ---
 
 <p align="center">
@@ -128,4 +124,10 @@ An AI-powered adaptive feedback agent built for JPMC Innovation Week 2025.
 
 <p align="center">
   Thanks for stopping by! Let's connect and build something meaningful. 🚀
+</p>
+
+<p align="center">
+  <a href="https://github.com/vanshikaaggarwal02">GitHub</a> •
+  <a href="https://www.linkedin.com/in/vanshika-aggarwal-5143571a6/">LinkedIn</a> •
+  <a href="mailto:vanshikaaggarwal02@gmail.com">Email</a>
 </p>
